@@ -1,0 +1,150 @@
+nav .hamburger{
+    display: flex;
+}
+
+.ulmenu{
+    display:none;
+}
+
+.elenco{
+    display: none;
+}
+
+.comics{
+    display: none;
+}
+
+.menuhamburger{
+    display: none;
+}
+
+.hamburger a:hover{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.hamburgerimg:hover .menuhamburger{
+    display: block;
+}
+
+.menuhamburger{
+    position:absolute;
+    width: 100%;
+    left:0;
+    justify-content: start;
+    background-color: #1e2232;
+}
+
+.menuhamburger ul{
+    list-style: none;
+    margin:0;
+    padding:3%;
+    text-align: left;
+}
+
+.menuhamburger li{
+    line-height: 40px;
+}
+
+.menuhamburger a{
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.menuhamburger p{
+    color: #fff;
+}
+
+.hamburger li:hover .menuhamburger{
+    display: flex;
+    width: 100%;
+}
+
+.store{
+    font-size: 20px;
+}
+
+.link_text{
+    width: 30%;
+}
+.footer_link{
+    font-size: 20px;
+}
+
+.footer_linkdue{
+    font-size: 15px;
+}
+
+.footer_biglietto{
+    font-size: 20px;
+}
+
+.footer_newsletter{
+    font-size: 20px;
+}
+
+.footer_siti{
+    font-size: 15px;
+}
+
+.footer_diritti{
+    font-size: 10px;
+}
+
+.servizi_titolo h2{
+    font-size: 30px;
+}
+
+.arancione{
+    font-size: 20px;
+}
+
+.nero {
+    font-size: 20px;
+}
+
+.articolo p{
+    font-size: 15px;
+}
+
+.passioni{
+    font-size: 20px;
+}
+
+.testo_numeri p{
+    font-size: 30px;
+}
+
+.testo_numeri span{
+    font-size: 30px;
+}
+
+.conteggio p{
+    font-size: 20px;
+}
+
+.conteggio span{ 
+    font-size: 20px;
+}
+
+.testo{
+    font-size: 20px;
+}
+
+.titolo span{
+    font-size: 50px;
+}
+
+.lista a{
+    font-size: 30px;
+}
+
+.lista span{
+    font-size: 30px;
+}
+
+.news_titolo{
+    font-size: 30px;
+}

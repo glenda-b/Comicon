@@ -1,0 +1,56 @@
+.ticket a{
+    font-size: 12px; 
+}
+
+.footer_link{
+    font-size: 25px;
+}
+
+.footer_biglietto{
+    font-size: 25px;
+}
+
+.footer_newsletter{
+    font-size: 25px;
+}
+
+.footer_siti{
+    font-size: 15px;
+}
+
+.footer_diritti{
+    font-size: 13px;
+}
+
+.abbastanza_testo p, .abbastanza_testo a{
+    font-size: 20px;
+}
+
+.servizi_titolo h2{
+    font-size: 35px;
+}
+
+.articolo span, .articolo p{
+   font-size: 18px ;
+}
+
+.news_titolo{
+    font-size: 35px;
+}
+
+.passioni{
+    font-size: 25px;
+}
+
+.testo_numeri p{
+    font-size: 35px;
+}
+
+.link_text{
+    width: 25%;
+}
+
+.logo img{
+    width: 30%;
+    height: 30%;
+}

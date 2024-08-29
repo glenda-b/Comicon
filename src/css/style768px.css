@@ -1,0 +1,44 @@
+.titolo span{
+    font-size: 40px;
+}
+
+.lista a{
+    font-size: 25px;
+}
+
+.lista span{
+    
+    font-size: 25px;
+}
+
+.hamburgerimg img{
+    width: 60%;
+    height: 100%;
+}
+
+.ticket a{
+    font-size: 10px; 
+}
+
+.lingua{
+    font-size: 13px;
+}
+
+.servizi{
+    grid-template-columns: repeat(3, 33.3%); 
+}
+
+.conteggio{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.uno{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    padding: 0% 2%;
+    flex: 1;    
+}
